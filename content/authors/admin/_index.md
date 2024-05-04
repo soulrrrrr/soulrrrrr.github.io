@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: A student. Thinker.
+role: A CS student. Thinker.
 
 # Organizations/Affiliations to show in About widget
 organizations:
