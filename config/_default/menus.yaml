@@ -11,6 +11,9 @@ main:
   - name: Uses
     url: /uses
     weight: 30
+   - name: Blog
+    url: /blog
+    weight: 35
   - name: Now
     url: /now
     weight: 40
