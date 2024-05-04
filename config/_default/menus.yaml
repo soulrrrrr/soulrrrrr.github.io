@@ -11,9 +11,9 @@ main:
   - name: Uses
     url: uses/
     weight: 30
-    - name: Now
+  - name: Now
     url: now/
     weight: 40
-    - name: Books
+  - name: Books
     url: books/
     weight: 50
