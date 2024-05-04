@@ -1,5 +1,6 @@
 ---
-Title: Books
+title: 'Books'
+date: 2024-05-05
 type: landing
 sections:
   - block: collection
