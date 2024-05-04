@@ -21,7 +21,7 @@ role: A student. Thinker.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: This universe
+  - name: Hello world!
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,7 +51,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "https://soulrrrrr.github.io/"
 ---
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
