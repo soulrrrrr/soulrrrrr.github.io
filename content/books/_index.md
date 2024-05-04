@@ -2,6 +2,7 @@
 title: 'Books'
 date: 2024-05-05
 type: landing
+sectionPagesMenu: main
 sections:
   - block: collection
     content:
