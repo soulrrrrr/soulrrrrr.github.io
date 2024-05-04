@@ -6,14 +6,14 @@ main:
     url: /
     weight: 10
   - name: About
-    url: about/
+    url: /about
     weight: 20
   - name: Uses
-    url: uses/
+    url: /uses
     weight: 30
   - name: Now
-    url: now/
+    url: /now
     weight: 40
   - name: Books
-    url: books/
+    url: /books
     weight: 50
