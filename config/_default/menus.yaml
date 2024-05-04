@@ -18,5 +18,5 @@ main:
     url: /now
     weight: 40
   - name: Books
-    url: /books
+    url: /#books
     weight: 50
