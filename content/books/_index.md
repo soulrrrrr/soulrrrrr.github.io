@@ -1,3 +1,4 @@
 ---
 title: Books
+sectionPagesMenu: main
 ---
