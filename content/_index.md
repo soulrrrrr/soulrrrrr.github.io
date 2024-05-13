@@ -13,13 +13,13 @@ sections:
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: markdown
-      content:
-        title: Me in 10 seconds
-        # subtitle: 
-        text: 
-          I studied computer science at NYCU and NTU in Taiwan.
-          
-          I am currently an incoming student at the University of Illinois at Urbana-Champaign (UIUC).
+    content:
+      title: Me in 10 seconds
+      # subtitle: 
+      text: 
+        I studied computer science at NYCU and NTU in Taiwan.
+        
+        I am currently an incoming student at the University of Illinois at Urbana-Champaign (UIUC).
   - block: collection
     content:
       title: Articles
