@@ -13,10 +13,10 @@ main:
     weight: 30
   - name: Blog
     url: /blog/
-    weight: 35
+    weight: 40
   - name: Now
     url: /now/
-    weight: 40
+    weight: 50
   - name: Books
     url: /books/
-    weight: 50
+    weight: 60

@@ -2,7 +2,7 @@
 title: Now
 date: 2024-05-04
 sectionPagesMenu: main
-hide_date: false
+hide_date: true
 reading_time: false
 ---
 
