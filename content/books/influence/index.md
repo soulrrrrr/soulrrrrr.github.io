@@ -1,6 +1,6 @@
 ---
 title: 影響力 
-summary: Influence: The Psychology of Persuasion
+summary: Influence':' The Psychology of Persuasion
 date: 2024-05-05
 
 # Featured image
