@@ -17,8 +17,7 @@ sections:
       title: Me in 10 seconds
       # subtitle: 
       text: 
-        I studied computer science at NYCU and NTU in Taiwan.
-        
+        I studied computer science at NYCU and NTU in Taiwan.\n
         I am currently an incoming student at the University of Illinois at Urbana-Champaign (UIUC).
   - block: collection
     content:

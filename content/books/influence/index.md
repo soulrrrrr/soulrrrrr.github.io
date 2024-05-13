@@ -1,6 +1,6 @@
 ---
-title: 影響力 Influence
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+title: 影響力 
+summary: Influence: The Psychology of Persuasion
 date: 2024-05-05
 
 # Featured image
