@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 蔡家倫
+title: Chia-Lun Tsai
 
 # Name pronunciation (optional)
-name_pronunciation: Chia-Lun Tsai
+# name_pronunciation: Chia-Lun Tsai
 
 # Full name (for SEO)
-first_name: Chia Lun
+first_name: Chia-Lun
 last_name: Tsai
 
 # Status emoji
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: A CS student. Thinker.
+# role: A CS student. Thinker.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed systems and history.
+# bio: My research interests include distributed systems and history.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,4 +54,4 @@ highlight_name: true
 website: "https://soulrrrrr.github.io/"
 ---
 
-Chia-Lun Tsai is a dedicate student and incoming student of UIUC MCS program.
+<!-- Chia-Lun Tsai is a dedicate student and incoming student of UIUC MCS program. -->
