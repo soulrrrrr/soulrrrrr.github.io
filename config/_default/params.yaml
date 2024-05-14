@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: '蔡家倫 Chia-Lun Tsai soulrrrrr'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: '<meta name="google-site-verification" content="cz_RUyCZ8LvzCP4jM2GfBDFP6d9cATt-XVM50HhkchY" />'
     baidu: ''
 
 # Site header
