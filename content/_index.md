@@ -16,6 +16,13 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: markdown
     content:
+      title: Me in 10 seconds
+      # subtitle: 
+      text: 
+          I studied computer science at NYCU and NTU in Taiwan.  
+          I am currently an incoming graduate student at the University of Illinois at Urbana-Champaign (UIUC).
+  - block: markdown
+    content:
       title: Me in 10 minutes
       # subtitle: 
       text: 
