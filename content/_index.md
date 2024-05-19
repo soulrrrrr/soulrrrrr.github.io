@@ -19,7 +19,7 @@ sections:
       title: Me in 10 minutes
       # subtitle: 
       text: 
-          Check my [About](./about.md) page.
+          Check my [About](/about/) page.
   - block: collection
     content:
       title: Articles
