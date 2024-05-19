@@ -8,6 +8,8 @@ sections:
       # The user's folder name in content/authors/
       username: admin
     design:
+      banner:
+        filename: banner.jpg
       spacing:
         padding: [0, 0, 0, 0]
       biography:
