@@ -21,11 +21,12 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Hello world!
+  - name: 蔡家倫
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed systems and history.
+bio: I studied computer science at NYCU and NTU in Taiwan.  
+     I am currently an incoming graduate student at the University of Illinois at Urbana-Champaign (UIUC).
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
