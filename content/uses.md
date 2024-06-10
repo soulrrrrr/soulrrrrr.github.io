@@ -1,6 +1,6 @@
 ---
 title: Uses
-date: 2023-10-24
+date: 2024-06-10
 sectionPagesMenu: main
 hide_date: true
 reading_time: false
@@ -14,10 +14,6 @@ I often get asked about what software or hardware I use, so this page will serve
 
 ## Editor + Terminal
 
-- [Visual Studio Code](https://code.visualstudio.com/) is my current editor
-- Chrome is my main browser
+- [Visual Studio Code](https://code.visualstudio.com/) + Vim is my current editor
+- Safari is my main browser
 - iTerm2 is my terminal
-
-## Desktop Apps
-
-- Better Touch Tool for window management and custom keyboard shortcuts
