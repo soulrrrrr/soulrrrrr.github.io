@@ -11,10 +11,8 @@ image:
 authors:
   - admin
 
-# tags:
-#   - Academic
-#   - Hugo Blox
-#   - Markdown
+tags:
+  - Booknotes
 ---
 
 Before reading this book, I had read Adam Grant's two newer books: Think Again and Hidden Potential. This book has some overlap with them, but its main message is "Be a giver, and success will naturally come." We have a similar concept in the Chinese book "老子 (Laozi)" in Eastern culture. Although his book always tells us simple concepts that have been repeated throughout history, he supports the idea by providing extensive scientific research.

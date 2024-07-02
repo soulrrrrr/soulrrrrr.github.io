@@ -1,6 +1,6 @@
 ---
-title: 影響力 
-summary: 'Influence: The Psychology of Persuasion'
+title: 'Influence: The Psychology of Persuasion'
+summary: Robert B. Cialdini
 date: 2024-05-05
 
 # Featured image
@@ -11,12 +11,77 @@ image:
 authors:
   - admin
 
-# tags:
-#   - Academic
-#   - Hugo Blox
-#   - Markdown
+tags:
+  - Booknotes
 ---
 
+# Notes
+
+## 1. Weapons of Influence - Getting People to Comply Unconsciously
+
+### Consistency Principle
+
+- Humans operate like instinctual tapes triggered by certain cues, irrespective of the overall context.
+  - Example: Expensive items are perceived as better.
+
+- Giving a reason when asking for help increases the chances of success.
+
+### Contrast Principle
+
+- When two items differ, people perceive the difference to be larger than it actually is.
+  - Example: Salespeople often start with an expensive item to make subsequent items seem cheaper.
+  - Example: P30 case from a female university student's parents.
+
+## 2. Reciprocity - The Principle of Exchange
+
+- People feel obliged to repay what they receive, even from those they dislike.
+- Even receiving an unsolicited favor can trigger a sense of indebtedness.
+- Reciprocity can lead to unequal exchanges due to the discomfort of owing.
+
+### Rejection-then-Retreat Technique
+
+- Technique:
+  1. Make a large request that will likely be rejected.
+  2. Follow with a smaller, more reasonable request (actual goal).
+
+- This technique not only increases compliance but also encourages commitment to the initial concession.
+
+## 3. Commitment and Consistency - The Power of Inner Alignment
+
+### Desire for Consistency
+
+- People desire consistency between their beliefs, values, and actions.
+- Consistency leads to self-perception alignment and societal acceptance.
+
+### Commitment is Key
+
+- Initiating with a small request increases compliance with subsequent larger requests.
+- Written commitments and public promises enhance their effectiveness.
+- Effortful commitments have greater impact on self-perception and behavior.
+
+## 4. Social Proof - Following the Crowd
+
+- People look to others' actions to determine correct behavior.
+- Social proof operates unconsciously, influencing behavior even in uncertain situations.
+
+## 5. Liking - The Principle of Affinity
+
+- We are more likely to comply with requests from people we know and like.
+- Factors influencing liking:
+  - Physical attractiveness, similarity, compliments, cooperation, and associations.
+
+## 6. Authority - The Power of Influence
+
+- Authority figures exert significant influence due to perceived expertise or status.
+- Titles and symbols of authority can command obedience and compliance.
+
+## 7. Scarcity - The Principle of Rarity
+
+- Items and opportunities become more attractive when perceived as scarce or rare.
+- The fear of missing out often increases desire and motivation.
+
+(Translated by ChatGPT)
+<!-- 
 ## 1. 影響力的武器-無形中讓人乖乖就範
 
 ### 固定行為模式
@@ -177,4 +242,4 @@ eg. P102 樂善好施實驗
 
 ### 機會越少見，價值似乎就越高
 
-> 失去某事物的想法，較之獲得相等事物的渴望，更能激發動力
+> 失去某事物的想法，較之獲得相等事物的渴望，更能激發動力 -->

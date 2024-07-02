@@ -11,17 +11,15 @@ image:
 authors:
   - admin
 
-# tags:
-#   - Academic
-#   - Hugo Blox
-#   - Markdown
+tags:
+  - Booknotes
 ---
 
 This book has made me start thinking about the relationship between nations and myself. After gaining such a comprehensive understanding of the origins of nations, it has provided me with a different perspective on the events occurring on this land of Taiwan, especially regarding political issues. When facing the fervor of fellow citizens on specific issues, I will try to understand it and reflect through the essence of nationalism. By attempting to transcend the framework of nationalism, many problems will be resolved.
 
 In the author's epilogue, the spread of translations of this book, originally written in English, suggests that the alliance between print-capitalism and the past ultimately destroyed the church's Latin hegemony and catalyzed the vernacular nationalist movements' force, which remains strong five hundred years later. This view aligns with my thoughts on English after reading this book. Despite wanting to fully understand the author's ideas by borrowing the English version, I found my ability insufficient, with almost every page containing unfamiliar terms. Comparing it with the Chinese translation revealed its importance. I hope to continue improving my English in the future, using this new era's Latin to understand the world better and enhance my thinking.
 
-## My Notes
+## Notes
 
 A nation is an imagined political community that is imagined as both inherently limited and sovereign. It is imagined because even the smallest nation has members who will never know most of their fellow members, but in the minds of each lives the image of their communion. Nations are imagined as limited because even the largest of them, encompassing perhaps a billion living human beings, has finite, if elastic, boundaries, beyond which lie other nations. They are imagined as sovereign because the concept was born in an age when Enlightenment and revolution were destroying the legitimacy of the divinely-ordained, hierarchical dynastic realm. Nations dream of being free, and the gauge and emblem of this freedom is the sovereign state. Finally, it is imagined as a community, because, regardless of the actual inequality and exploitation that may prevail in each, the nation is always conceived as a deep, horizontal comradeship.
 

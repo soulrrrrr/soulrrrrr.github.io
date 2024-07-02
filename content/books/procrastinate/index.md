@@ -2,6 +2,7 @@
 title: 拖延心理學
 summary: 'Procrastination: Why You Do It, What to Do About It Now'
 date: 2024-05-13
+draft: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -11,10 +12,8 @@ image:
 authors:
   - admin
 
-# tags:
-#   - Academic
-#   - Hugo Blox
-#   - Markdown
+tags:
+  - Booknotes
 ---
 
 ## 認識拖延
