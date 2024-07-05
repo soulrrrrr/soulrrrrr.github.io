@@ -1,9 +1,11 @@
 ---
-title: 珍惜所擁有的
-summary: Be grateful
+title: Be grateful
+summary: Cherish what you have
 date: 2024-05-19
 authors:
   - admin
+tags:
+  - Blog
 ---
 
 最近做了一個小手術，由於是在嘴巴的部分，吃飯會有點不方便，和幾年前一樣吃飯只能小口小口一邊吃，而且不能用吸管。  
