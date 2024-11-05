@@ -19,8 +19,8 @@ sections:
       title: Me in 10 seconds
       # subtitle: 
       text: 
-          I studied computer science at NYCU and NTU in Taiwan.  
-          I am currently an incoming graduate student at the University of Illinois at Urbana-Champaign (UIUC).
+          I have studied computer science at NYCU in Taiwan.  
+          I am currently Master's degree of computer science at the University of Illinois at Urbana-Champaign (UIUC).
           I love to share what I read to empower people.
   - block: markdown
     content:
