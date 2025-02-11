@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2024-06-10
+date: 2025-02-11
 sectionPagesMenu: main
 hide_date: true
 reading_time: false
@@ -8,10 +8,16 @@ reading_time: false
 
 The idea of a Now page is to tell you about what I am doing now.
 
-Last update: 2024-10-07 Champaign, IL, USA
+Last update: 2025-02-11 Champaign, IL, USA
 
-## Studying at UIUC
-I am studying computer science at UIUC and expect to graduate in December 2025. I am looking for software engineer internships for Summer 2025!
+## Set up my domain
+Now I finally have a domain [ctsai.me](ctsai.me) ! The setup was easier than I thought. I still can host this website using Github Pages, just need to setup some DNS stuff.
 
-## Planning fall break trip
-We have an 8-day fall break during Thanksgiving week. I have many travel ideas: Alaska, Montreal & Quebec, Mexico, DC, New York... still deciding where to go!
+## Reading "The story of Philosophy"
+This is a great book. It introduces some of the most important Western philosophers in the history. Reading philosophy books helps me think more throughly and clearly.
+
+## Planning spring break trip
+I have many travel ideas: Boston, Montreal & Quebec, Mexico, DC... still deciding where to go!
+
+## Useful resources
+[How to set up your blog with a domain name (Mandarin)](https://israynotarray.com/other/20221206/2011045213/)
