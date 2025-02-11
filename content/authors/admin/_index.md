@@ -25,9 +25,7 @@ organizations:
     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Chia-Lun (Charles) Tsai.
-     I studied computer science at NYCU in Taiwan.  
-     I am currently an MCS student at the University of Illinois at Urbana-Champaign (UIUC).
+bio: I am Chia-Lun (Charles) Tsai, a master’s student in Computer Science at the University of Illinois at Urbana-Champaign (UIUC).
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
