@@ -21,6 +21,10 @@ sections:
       text: 
           I am currently studying Computer Science at the University of Illinois Urbana-Champaign (UIUC).
           I love sharing what I read to empower people.
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0', '20px', '0', '20px']
   - block: markdown
     content:
       title: Me in 10 minutes?
