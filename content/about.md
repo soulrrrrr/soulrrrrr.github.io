@@ -34,4 +34,6 @@ want to let the others think I am dumb. But everyone makes mistakes. What am I
 worrying about? Maybe I care too much about what others think. Focus on myself.
 But how much do I believe in myself and how much do I believe the others?*
 
+Thinking doesn't always gives me answers. But often inspirations.
+
 <!-- #### I enjoy reading -->
