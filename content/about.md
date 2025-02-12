@@ -18,8 +18,6 @@ reading_time: false
 - 2024: started this blog, moved to Champaign, Illinois, USA to pursue a master's degree in Computer Science at University of Illinois Urbana-Champaign
 - 2025: migrated my blog to [ctsai.me](https://ctsai.me/about)
 
-### About me
-
 #### I enjoy thinking
 
 I like to think from a trait or a perspective of mine. Below is an example:
