@@ -13,21 +13,26 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       biography:
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: justify; font-size: 0.8em; padding: 10px;'
   - block: markdown
     content:
       title: Me in 10 seconds
       # subtitle: 
       text: 
-          I have studied computer science at NYCU in Taiwan.  
-          I am currently Master's degree of computer science at the University of Illinois at Urbana-Champaign (UIUC).
-          I love to share what I read to empower people.
+          I am currently studying Computer Science at the University of Illinois Urbana-Champaign (UIUC).
+          I love sharing what I read to empower people.
   - block: markdown
     content:
-      title: Me in 10 minutes
+      title: Me in 10 minutes?
       # subtitle: 
       text: 
-          Check my [About](/about/) page.
+          See my "[about](/about/)" page.
+  - block: markdown
+    content:
+      title: What am I doing now?
+      # subtitle: 
+      text: 
+          See my "[now](/now/)" page.
   - block: collection
     content:
       title: Articles
