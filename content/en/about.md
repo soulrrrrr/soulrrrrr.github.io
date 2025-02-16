@@ -12,10 +12,10 @@ reading_time: false
 - 2011: started playing with [LEGO NXT](https://en.wikipedia.org/wiki/Lego_Mindstorms_NXT), found programming fun
 - 2016: shifted focus to non-fiction books
 - 2019: moved to Hsinchu, Taiwan, to study Computer Science at [National Yang Ming Chiao Tung University](https://en.wikipedia.org/wiki/National_Yang_Ming_Chiao_Tung_University)
-- 2021: read my last novel, [Before I Go to Sleep](https://en.wikipedia.org/wiki/Before_I_Go_to_Sleep)
+- 2020: started writing on [Medium](https://medium.com/@chialun100)
 - 2022: interned at NVIDIA Taiwan, working on GPU boot firmware testing
 - 2023: studied abroad in Gothenburg, Sweden, as an exchange program at [Chalmers tekniska högskola](https://en.wikipedia.org/wiki/Chalmers_University_of_Technology), traveled to over 10 European countries, hugely shaped my personality
-- 2024: started this blog, moved to Champaign, Illinois, USA to pursue a master's degree in Computer Science at University of Illinois Urbana-Champaign
+- 2024: started [this blog](https://github.com/soulrrrrr/soulrrrrr.github.io), moved to Champaign, Illinois, USA to pursue a master's degree in Computer Science at University of Illinois Urbana-Champaign
 - 2025: migrated my blog to [ctsai.me](https://ctsai.me/about)
 
 #### I enjoy thinking
