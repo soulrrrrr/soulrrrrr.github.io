@@ -20,7 +20,7 @@ reading_time: false
 
 #### I enjoy thinking
 
-I like to think from a trait or a perspective of mine. Below is an example:
+I like to start thinking from a trait or a perspective of mine. Below is an example:
 
 *When I enter a new environment, I seldom speak and I usually observe the others quietly. I feel that I 
 have to learn more about others by observing them in order to behave appropriately. Some people
@@ -34,4 +34,13 @@ But how much do I believe in myself and how much do I believe the others?*
 
 Thinking doesn't always gives me answers. But often inspirations.
 
-<!-- #### I enjoy reading -->
+#### I enjoy reading
+
+Reading is an indispensable part of my life. I am fortunate that
+I had a childhood without easy access to electronic devices, where I developed
+reading habits.
+
+As a child and adolescent, I read for entertainment, 
+but now I read for learning and growth. Reading is the most effective way to
+learn from the greatest people throughout the world and history. Although the purpose
+changed, the enjoyment didn't change.
