@@ -1,6 +1,6 @@
 ---
-title: 拖延心理學
-summary: 'Procrastination: Why You Do It, What to Do About It Now'
+title: Procrastination
+summary: Why You Do It, What to Do About It Now / Jane B. Burka & Lenora M. Yuen
 date: 2024-05-13
 draft: true
 

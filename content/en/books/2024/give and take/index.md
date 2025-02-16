@@ -1,6 +1,6 @@
 ---
 title: Give and Take
-# summary: 'Influence: The Psychology of Persuasion'
+summary: Why helping others drives our success / Adam Grant
 date: 2024-05-21
 
 # Featured image

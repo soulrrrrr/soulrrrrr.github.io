@@ -1,6 +1,6 @@
 ---
 title: The Psychology of Money
-# summary: 'Influence: The Psychology of Persuasion'
+summary: Timeless lessons on wealth, greed, and happiness / Morgan Housel
 date: 2024-11-04
 
 # Featured image

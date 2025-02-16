@@ -11,7 +11,7 @@ last_name: Tsai
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌽
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,7 +51,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: "https://soulrrrrr.github.io/"
+website: "https://ctsai.me/"
 ---
 
-<!-- Chia-Lun Tsai is a dedicate student and incoming student of UIUC MCS program. -->
+<!-- Chia-Lun Tsai is a dedicate student and a student of UIUC MCS program. -->

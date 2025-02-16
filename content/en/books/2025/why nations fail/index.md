@@ -1,6 +1,6 @@
 ---
 title: Why Nations Fail
-summary: 'The origins of power, prosperity, and poverty'
+summary: The origins of power, prosperity, and poverty / Daron Acemoglu & James A. Robinson
 date: 2025-01-24
 
 # Featured image

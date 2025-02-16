@@ -8,15 +8,17 @@ main:
   - name: About
     url: /about/
     weight: 20
-  - name: Uses
-    url: /uses/
-    weight: 30
-  - name: Blog
-    url: /blog/
-    weight: 40
   - name: Now
     url: /now/
-    weight: 50
+    weight: 30
   - name: Books
     url: /books/
+    weight: 40
+  - name: Blog
+    url: /blog/
+    weight: 50
+  - name: Uses
+    url: /uses/
     weight: 60
+
+

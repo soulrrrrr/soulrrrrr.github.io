@@ -1,6 +1,6 @@
 ---
 title: Imagined Communities
-summary: Benedict Anderson
+summary: Reflections on the Origin and Spread of Nationalism / Benedict Anderson
 date: 2024-07-02
 
 # Featured image

@@ -1,6 +1,6 @@
 ---
-title: "Numbers Don't Lie: 71 Stories to Help Us Understand the Modern World"
-summary: Vaclav Smil
+title: Numbers Don't Lie
+summary: 71 Stories to Help Us Understand the Modern World / Vaclav Smil
 date: 2024-07-15
 
 # Featured image

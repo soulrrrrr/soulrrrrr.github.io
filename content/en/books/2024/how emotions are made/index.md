@@ -1,6 +1,6 @@
 ---
 title: How Emotions are Made
-# summary: 'Influence: The Psychology of Persuasion'
+summary: The Secret Life of the Brain / Lisa Feldman Barrett
 date: 2024-08-25
 
 # Featured image

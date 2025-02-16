@@ -1,6 +1,6 @@
 ---
-title: 'Influence: The Psychology of Persuasion'
-summary: Robert B. Cialdini
+title: Influence
+summary: The Psychology of Persuasion / Robert B. Cialdini
 date: 2024-05-05
 
 # Featured image
