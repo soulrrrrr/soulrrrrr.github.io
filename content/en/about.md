@@ -40,7 +40,7 @@ Reading is an indispensable part of my life. I am fortunate that
 I had a childhood without easy access to electronic devices, where I developed
 reading habits.
 
-As a child and adolescent, I read for entertainment, 
+As a child and adolescent, I read for entertainment and fun, 
 but now I read for learning and growth. Reading is the most effective way to
 learn from the greatest people throughout the world and history. Although the purpose
 changed, the enjoyment didn't change.
